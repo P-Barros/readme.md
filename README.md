@@ -60,7 +60,7 @@ O case simula um cenário real de atuação de um analista de dados.
 Pedro Barros  
 Analista de Dados  
 
-LinkedIn: [link]  
-GitHub: [link]
+LinkedIn: www.linkedin.com/in/pedrobarrossilva  
+GitHub: https://github.com/P-Barros
 
 

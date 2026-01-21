@@ -36,6 +36,12 @@ A análise da distribuição do lucro por km mostrou que a maioria das corridas 
 Os valores se concentram entre R$1 e R$4 por km, indicando um padrão operacional.
 Corridas com prejuízo existem, mas representam uma parcela menor do total.
 
+![Distribuição do Valor por Km](Participacao-Faturamento-Cidade.png) 
+![Distribuição do Valor por Km](Faturamento-total-Cidade.png) 
+![Distribuição do Valor por Km](Media-Valor-KM-Cidade.png)
+![Distribuição do Valor por Km](Distribuicao-lucro-por-KM.png)
+
+
 ## 💡 Principais Insights
 
 - O lucro por km é mais informativo do que faturamento bruto
